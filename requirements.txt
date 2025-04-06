@@ -43,3 +43,4 @@ urllib3==2.2.3
 wafw00f==2.3.1
 Werkzeug==3.1.2
 wheel==0.45.1
+gunicorn==21.2.0
