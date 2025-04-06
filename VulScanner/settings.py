@@ -26,6 +26,8 @@ SECRET_KEY = "django-insecure--+o90(n6@%ffcd)pfjz=e-ig0oe7v4#*q2yf%j$1w-sw(+q+ix
 DEBUG = False
 
 ALLOWED_HOSTS = ['.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://nexus-production-761f.up.railway.app']
+
 
 
 
